@@ -1,0 +1,2 @@
+# NEWCOMPSCI
+print("Hello World")
